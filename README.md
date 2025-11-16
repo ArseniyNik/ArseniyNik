@@ -39,7 +39,7 @@ Because good solutions should feel good — to build and to use.
 # 📬 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/arsenic_nik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/arsenicnik_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://t.me/arsenic_nik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="30" width="40" /></a>
 <a href="https://t.me/arsenic_nik](https://www.linkedin.com/in/arsenii-nikishin-1a3280272/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="30" width="40" /></a>
 </p>
