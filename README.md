@@ -32,7 +32,8 @@ MGIMO (Business Informatics) • Plekhanov University (Cyber Technologies) • S
 🏆 <b>Winner of INNOGLOBALHACK 2025</b> — created an AI-driven Telegram bot for corporate systems via text & voice commands.
 
 ⚡ <b>Why “vibecoder”?</b>  
-Because good solutions should feel good — to build and to use.
+Because effective solutions should feel good — to build, to use, and to maintain.
+They should deliver value fast, avoid unnecessary complexity, and save both time and resources.
 
 ---
 
@@ -45,7 +46,7 @@ Because good solutions should feel good — to build and to use.
 </p>
 
 📩 <b>Email:</b> arsenic_nik@icloud.com  
-📞 <b>Phone:</b> <a href="tel:89871475753">+7 (987) 147-57-53</a>  
+📞 <b>Phone:</b> <a href="tel:+79871475753">+7 (987) 147-57-53</a>  
 📍 <b>Location:</b> Moscow, Russia 
 
 
