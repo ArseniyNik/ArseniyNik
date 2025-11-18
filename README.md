@@ -42,7 +42,7 @@ They should deliver value fast, avoid unnecessary complexity, and save both time
 <p align="left">
 <a href="https://instagram.com/arsenicnik_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://t.me/arsenic_nik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="30" width="40" /></a>
-<a href="https://t.me/arsenic_nik](https://www.linkedin.com/in/arsenii-nikishin-1a3280272/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arsenii-nikishin-1a3280272/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="30" width="40" /></a>
 </p>
 
 📩 <b>Email:</b> arsenic_nik@icloud.com  
