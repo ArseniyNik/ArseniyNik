@@ -1,10 +1,10 @@
-# ✨ About Me
+#  About Me
 
 Hi! I'm Arseniy — a **Business Analyst** and **Full-Cycle Generalist** at **STK (Sber Group)**, working in the **Forensic department** and developing both internal and B2B solutions.
 
 I combine analytical expertise with hands-on engineering skills, allowing me to fully cover the lifecycle of a product — from requirements and architecture to prototyping, development, deployment, and operational support.
 
-🧩 **My key responsibilities at STK:**  
+ **My key responsibilities at STK:**  
 - Business analysis: requirements gathering, structuring, AS-IS / TO-BE modeling, documentation  
 - Full-cycle prototyping (“vibecoding”): backend, frontend, system design, UI/UX logic  
 - Development of internal corporate tools and external B2B services  
@@ -14,11 +14,11 @@ I combine analytical expertise with hands-on engineering skills, allowing me to 
 - DevOps workflows: environments, CI/CD, deployments, monitoring, infrastructure maintenance  
 - Project coordination and cross-team communication throughout the delivery cycle  
 
-🎛 **How I work:**  
+ **How I work:**  
 I operate at the intersection of business and technology, closing gaps between analysts, developers, infrastructure teams, and stakeholders.  
 My goal is to deliver validated, reliable, and scalable solutions that align with business objectives while maintaining engineering precision.
 
-⚡ **What defines me as a specialist:**  
+ **What defines me as a specialist:**  
 - structured thinking and strong analytical approach  
 - ability to independently design, prototype, and deploy working systems  
 - experience in multi-agent architectures and automation tools  
@@ -26,12 +26,12 @@ My goal is to deliver validated, reliable, and scalable solutions that align wit
 - consistent, predictable, and business-aligned execution
 
 
-🎓 <b>Education:</b>  
+ <b>Education:</b>  
 MGIMO (Business Informatics) • Plekhanov University (Cyber Technologies) • School 21 by Sberbank  
 
-🏆 <b>Winner of INNOGLOBALHACK 2025</b> — created an AI-driven Telegram bot for corporate systems via text & voice commands.
+ <b>Winner of INNOGLOBALHACK 2025</b> — created an AI-driven Telegram bot for corporate systems via text & voice commands.
 
-⚡ <b>Why “vibecoder”?</b>  
+ <b>Why “vibecoder”?</b>  
 Because effective solutions should feel good — to build, to use, and to maintain.
 They should deliver value fast, avoid unnecessary complexity, and save both time and resources.
 
